@@ -1,17 +1,17 @@
-# mini_calculator
+# 🧮 Mini Calculator - Flutter App
 
-A new Flutter project.
+A lightweight and user-friendly mobile application built using **Flutter** to perform fundamental mathematical calculations. This project was developed as a hands-on practice to strengthen state management, UI design, and user input handling in Flutter.
 
-## Getting Started
+## ✨ Features
+* **Basic Arithmetic Operations:** Supports Addition, Subtraction, Multiplication, and Division.
+* **Interactive UI:** Clean layout featuring custom input fields and operational buttons.
+* **Responsive Design:** Adapts smoothly across mobile device layouts.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+* **Framework:** Flutter (Dart)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+To run this project locally:
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/KasuniPrabodha/mini-calculator.git](https://github.com/KasuniPrabodha/mini-calculator.git)
