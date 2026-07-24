@@ -10,6 +10,12 @@ A lightweight and user-friendly mobile application built using **Flutter** to pe
 ## 🛠️ Built With
 * **Framework:** Flutter (Dart)
 
+## 📱 App UI Preview
+
+<p align="center">
+  <img src="screenshots/ui.png" alt="Mini Calculator UI" width="300"/>
+</p>
+
 ## 🚀 Getting Started
 To run this project locally:
 1. Clone the repository:
